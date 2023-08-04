@@ -34,7 +34,7 @@ Join us on this exciting journey as we empower developers like you with the know
 
 ## 🔗 Connect with us:
 
-- YouTube: [GitSphere](https://www.youtube.com/GitSphere)
+- YouTube: [GitSphere](https://www.youtube.com/@GitSphere)
 - Twitter: [@GitSphereEdTech](https://twitter.com/GitSphereEdTech)
 
 Let's master Git and GitHub together! 🚀🌟
